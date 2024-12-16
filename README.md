@@ -77,8 +77,12 @@ This is a Django-based project management API that allows users to manage projec
    ```
     Open http://127.0.0.1:8000 in your browser.
    ```
+8. **Access the Application**
+   ```
+    Open http://127.0.0.1:8000/documentations/ in your browser.
+   ```
 
-## Features
+## Licensed
     This project is licensed under the MIT License.
 
 ## Contact
